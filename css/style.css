@@ -1,0 +1,26 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#container {
+	height: 700px;
+	max-width: 500px;
+	padding: 10px;
+	border-width: 5px;
+	margin: auto;
+}
+
+#myBox {
+	background-color: red;
+	height: 100px;
+	width: 100px;
+	display: none;
+	position: relative;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+
+
